@@ -1,0 +1,19 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Carlos",
+    "role": "Frontend Developer"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portfolio",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "name": "CRM",
+      "status": "In Progress"
+    }
+  ]
+}
