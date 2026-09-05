@@ -1,26 +1,33 @@
 {
   "about": [
     {
-    "title": "Email",
-    "slug": "mailto:saralorena92@hotmail.com",
-    "text": "saralorena92@hotmail.com",
-    "isWide": true
-  },
-  {
-    "title": "City",
-    "text": "Reus, Catalunya"
-  },
-  {
-    "title": "Instagram",
-    "slug": "/",
-    "text": "@saralarts",
-    "isExternal": true
-  },
-  {
-    "title": "Linkedin",
-    "slug": "/",
-    "text": "linkedin saralarts",
-    "isExternal": true
-  }
+        "summary":[
+            {
+            "title": "Email",
+            "slug": "mailto:saralorena92@hotmail.com",
+            "text": "saralorena92@hotmail.com",
+            "isWide": true
+            },
+            {
+                "title": "City",
+                "text": "Reus, Catalunya"
+            },
+            {
+                "title": "Instagram",
+                "slug": "/",
+                "text": "@saralarts",
+                "isExternal": true
+            },
+            {
+                "title": "Linkedin",
+                "slug": "/",
+                "text": "linkedin saralarts",
+                "isExternal": true
+            }
+        ],
+        "description":[
+            
+        ]
+    }
   ]
 }
