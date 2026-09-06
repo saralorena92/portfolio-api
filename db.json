@@ -25,9 +25,22 @@
                 "isExternal": true
             }
         ],
-        "description":[
-            
-        ]
+        "description":{
+            "title": "description",
+            "text": "lorem ipsum",
+            "list":[
+                {
+                    "title": "title 1",
+                    "text": "text 1",
+                    "icon": "BiBook"
+                },
+                {
+                    "title": "title 2",
+                    "text": "text 2",
+                    "icon": "BsEyeglasses"
+                }
+            ]
+        }
     }
   ]
 }
