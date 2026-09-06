@@ -3,10 +3,10 @@
     {
         "summary":[
             {
-            "title": "Email",
-            "slug": "mailto:saralorena92@hotmail.com",
-            "text": "saralorena92@hotmail.com",
-            "isWide": true
+                "title": "Email",
+                "slug": "mailto:saralorena92@hotmail.com",
+                "text": "saralorena92@hotmail.com",
+                "isWide": true
             },
             {
                 "title": "City",
@@ -26,17 +26,17 @@
             }
         ],
         "description":{
-            "title": "description",
-            "text": "lorem ipsum",
+            "title": "Description",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fermentum vestibulum elit sit amet aliquet. Nam vulputate efficitur tortor, vitae commodo odio porttitor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sed dui nec ultrices. Integer vitae massa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies iaculis. Nulla facilisi. Nullam eleifend est sapien, sed faucibus dui faucibus quis.",
             "list":[
                 {
                     "title": "title 1",
-                    "text": "text 1",
+                    "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies sed faucibus dui faucibus quis.",
                     "icon": "BiBook"
                 },
                 {
                     "title": "title 2",
-                    "text": "text 2",
+                   "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libered faucibus dui faucibus quis.",
                     "icon": "BsEyeglasses"
                 }
             ]
