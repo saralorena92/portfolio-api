@@ -3,15 +3,16 @@
     {
         "summary":[
             {
+                "title": "City",
+                "text": "Reus, Catalunya"
+            },
+            {
                 "title": "Email",
                 "slug": "mailto:saralorena92@hotmail.com",
                 "text": "saralorena92@hotmail.com",
                 "isWide": true
             },
-            {
-                "title": "City",
-                "text": "Reus, Catalunya"
-            },
+            
             {
                 "title": "Instagram",
                 "slug": "/",
@@ -38,6 +39,20 @@
                     "title": "title 2",
                    "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libered faucibus dui faucibus quis.",
                     "icon": "BsEyeglasses"
+                }
+            ],
+            "skills":[
+                {
+                    "text":"PHP (2 years)",
+                    "value":20
+                },
+                {
+                    "text":"SCSS (7 years)",
+                    "value":70
+                },
+                {
+                    "text":"React (5 years)",
+                    "value":50
                 }
             ]
         }
