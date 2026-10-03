@@ -44,15 +44,33 @@
             "skills":[
                 {
                     "text":"PHP (2 years)",
-                    "value":20
+                    "value":20,
+                    "icon":"FaPhp"
                 },
                 {
                     "text":"SCSS (7 years)",
-                    "value":70
+                    "value":70,
+                    "icon":"BsFiletypeScss"
+                },
+                {
+                    "text":"HTML 5 (7 years)",
+                    "value":50,
+                    "icon":"FaHtml5"
                 },
                 {
                     "text":"React (5 years)",
-                    "value":50
+                    "value":50,
+                    "icon":"FaReact"
+                },
+                {
+                    "text":"Javascript (4 years)",
+                    "value":40,
+                    "icon":"BsJavascript"
+                },
+                {
+                    "text":"Figma (4 years)",
+                    "value":40,
+                    "icon":"FaFigma"
                 }
             ]
         }
