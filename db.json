@@ -73,7 +73,53 @@
                     "icon":"FaFigma"
                 }
             ]
-        }
+        },
+        "experiencie":[
+            {
+                "year": "2014",
+                "title": "Studiogenesis",
+                "subtitle": "Design & Markup",
+                "text": "lorem amet"
+            },
+            {
+                "year": "2017",
+                "title": "Ediversa",
+                "subtitle": "Design & Markup",
+                "text": "lorem amet"
+            },
+            {
+                "year": "2024",
+                "title": "Ediversa",
+                "subtitle": "FrontEnd Developer",
+                "text": "lorem amet"
+            }
+        ],
+        "studies":[
+            {
+                "year": "2006",
+                "title": "ESO",
+                "subtitle": "INS Berenguer d'Entença, l'Hospitalet de l'Infant",
+                "text": "lorem amet"
+            },
+            {
+                "year": "2010",
+                "title": "Bachiller artes",
+                "subtitle": "INS Martí i Franqués, Tarragona",
+                "text": "lorem amet"
+            },
+            {
+                "year": "2012",
+                "title": "CFGS Diseño gráfico",
+                "subtitle": "EADT, Tarragona",
+                "text": "lorem amet"
+            },
+            {
+                "year": "2014",
+                "title": "CFGS Diseño interactivo",
+                "subtitle": "EADT, Tarragona",
+                "text": "lorem amet"
+            }
+        ]
     }
   ]
 }
