@@ -166,6 +166,9 @@
                 "title":"detail title 2",
                 "subtitle":"subtitle 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+                "srcDesktop":null,
+                "srcMobile":null,
+                "alt":null
             }
         ],
         "related":[
