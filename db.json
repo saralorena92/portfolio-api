@@ -154,13 +154,17 @@
                 "id":"detail-project-1",
                 "title":"detail title 1",
                 "subtitle":"subtitle 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+                "src":"img1",
+                "alt":"alt img 1"
             },
             {
                 "id":"detail-project-2",
                 "title":"detail title 2",
                 "subtitle":"subtitle 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+                "src":"img2",
+                "alt":"alt img 2"
             }
         ],
         "related":[
@@ -209,13 +213,17 @@
                 "id":"detail-project-3",
                 "title":"detail title 3",
                 "subtitle":"subtitle 3",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+                "src":"img3",
+                "alt":"alt img 3"
             },
             {
                 "id":"detail-project-4",
                 "title":"detail title 4",
                 "subtitle":"subtitle 4",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+                "src":"img4",
+                "alt":"alt img 4"
             }
         ],
         "related":[
