@@ -155,7 +155,8 @@
                 "title":"detail title 1",
                 "subtitle":"subtitle 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "src":"img1",
+                "srcDesktop":"img1",
+                "srcMobile":"img1",
                 "alt":"alt img 1"
             },
             {
@@ -163,7 +164,8 @@
                 "title":"detail title 2",
                 "subtitle":"subtitle 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "src":"img2",
+                "srcDesktop":"img2",
+                "srcMobile":"img2",
                 "alt":"alt img 2"
             }
         ],
