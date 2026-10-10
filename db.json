@@ -166,11 +166,15 @@
         "related":[
             {
                 "title":"related 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+                "src":"img1",
+                "alt":"alt img 1"
             },
             {
                 "title":"related 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+                "src":"img2",
+                "alt":"alt img 2"
             }
         ]
     },
@@ -217,11 +221,15 @@
         "related":[
             {
                 "title":"related 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+                "src":"img3",
+                "alt":"alt img 3"
             },
             {
                 "title":"related 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+                "src":"img4",
+                "alt":"alt img 4"
             }
         ]
     }
