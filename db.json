@@ -129,6 +129,16 @@
         "subtitle":"lorem ipsum sit",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
         "tags":["Development", "UX/UI", "Analysis"],
+        "img":[
+            {
+                "src":"img1",
+                "alt":"alt img 1"
+            },
+            {
+                "src":"img2",
+                "alt":"alt img 2"
+            }
+        ],
         "facts":[
             {
                 "title":"detail title 1",
@@ -150,6 +160,57 @@
                 "id":"detail-project-2",
                 "title":"detail title 2",
                 "subtitle":"subtitle 2",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+            }
+        ],
+        "related":[
+            {
+                "title":"related 1",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+            },
+            {
+                "title":"related 2",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo"
+            }
+        ]
+    },
+     {
+        "id": "project-2",
+        "title":"Project 2",
+        "subtitle":"lorem ipsum sit",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
+        "tags":["Development", "Analysis"],
+        "img":[
+            {
+                "src":"img3",
+                "alt":"alt img 3"
+            },
+            {
+                "src":"img4",
+                "alt":"alt img 4"
+            }
+        ],
+        "facts":[
+            {
+                "title":"detail title 1",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+            },
+            {
+                "title":"detail title 2",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+            }
+        ],
+        "details":[
+            {
+                "id":"detail-project-3",
+                "title":"detail title 3",
+                "subtitle":"subtitle 3",
+                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+            },
+            {
+                "id":"detail-project-4",
+                "title":"detail title 4",
+                "subtitle":"subtitle 4",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
             }
         ],
