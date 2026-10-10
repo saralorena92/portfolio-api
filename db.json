@@ -175,15 +175,17 @@
             {
                 "title":"related 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "srcDesktop":"img1.jpg",
-                "srcMobile":"img1.jpg",
+                "src":"img1.jpg",
+                "cta": "see related 1",
+                "slug": "/project-2",
                 "alt":"alt img 1"
             },
             {
                 "title":"related 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "srcDesktop":"img2.jpg",
-                "srcMobile":"img2.jpg",
+                "src":"img2.jpg",
+                "cta": "see related 2",
+                "slug": "/project-2",
                 "alt":"alt img 2"
             }
         ]
@@ -240,15 +242,17 @@
             {
                 "title":"related 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "srcDesktop":"img3.jpg",
-                "srcMobile":"img3.jpg",
+                "src":"img3.jpg",
+                "cta": "see related 3",
+                "slug": "/project-1",
                 "alt":"alt img 3"
             },
             {
                 "title":"related 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "srcDesktop":"img4.jpg",
-                "srcMobile":"img4.jpg",
+                "src":"img4.jpg",
+                "cta": "see related 4",
+                "slug": "/project-1",
                 "alt":"alt img 4"
             }
         ]
