@@ -131,11 +131,13 @@
         "tags":["Development", "UX/UI", "Analysis"],
         "img":[
             {
-                "src":"img1",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
                 "alt":"alt img 1"
             },
             {
-                "src":"img2",
+                "srcDesktop":"img2.jpg",
+                "srcMobile":"img2.jpg",
                 "alt":"alt img 2"
             }
         ],
@@ -155,8 +157,8 @@
                 "title":"detail title 1",
                 "subtitle":"subtitle 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img1",
-                "srcMobile":"img1",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
                 "alt":"alt img 1"
             },
             {
@@ -164,8 +166,8 @@
                 "title":"detail title 2",
                 "subtitle":"subtitle 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img2",
-                "srcMobile":"img2",
+                "srcDesktop":"img2.jpg",
+                "srcMobile":"img2.jpg",
                 "alt":"alt img 2"
             }
         ],
@@ -173,13 +175,15 @@
             {
                 "title":"related 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img1",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
                 "alt":"alt img 1"
             },
             {
                 "title":"related 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img2",
+                "srcDesktop":"img2.jpg",
+                "srcMobile":"img2.jpg",
                 "alt":"alt img 2"
             }
         ]
@@ -192,11 +196,13 @@
         "tags":["Development", "Analysis"],
         "img":[
             {
-                "src":"img3",
+                "srcDesktop":"img3.jpg",
+                "srcMobile":"img3.jpg",
                 "alt":"alt img 3"
             },
             {
-                "src":"img4",
+                "srcDesktop":"img4.jpg",
+                "srcMobile":"img4.jpg",
                 "alt":"alt img 4"
             }
         ],
@@ -216,8 +222,8 @@
                 "title":"detail title 3",
                 "subtitle":"subtitle 3",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img3",
-                "srcMobile":"img3",
+                "srcDesktop":"img3.jpg",
+                "srcMobile":"img3.jpg",
                 "alt":"alt img 3"
             },
             {
@@ -225,8 +231,8 @@
                 "title":"detail title 4",
                 "subtitle":"subtitle 4",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img4",
-                "srcMobile":"img4",
+                "srcDesktop":"img4.jpg",
+                "srcMobile":"img4.jpg",
                 "alt":"alt img 4"
             }
         ],
@@ -234,13 +240,15 @@
             {
                 "title":"related 1",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img3",
+                "srcDesktop":"img3.jpg",
+                "srcMobile":"img3.jpg",
                 "alt":"alt img 3"
             },
             {
                 "title":"related 2",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img4",
+                "srcDesktop":"img4.jpg",
+                "srcMobile":"img4.jpg",
                 "alt":"alt img 4"
             }
         ]
