@@ -212,7 +212,6 @@
             {
                 "id":"detail-project-3",
                 "title":"detail title 3",
-                "subtitle":"subtitle 3",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
                 "src":"img3",
                 "alt":"alt img 3"
@@ -220,7 +219,6 @@
             {
                 "id":"detail-project-4",
                 "title":"detail title 4",
-                "subtitle":"subtitle 4",
                 "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
                 "src":"img4",
                 "alt":"alt img 4"
