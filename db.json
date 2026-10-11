@@ -124,6 +124,7 @@
   ],
   "projects":[
     {
+        "category": "UX / UI",
         "id": "project-1",
         "title":"Project 1",
         "subtitle":"lorem ipsum sit",
@@ -191,6 +192,7 @@
         ]
     },
      {
+        "category": "Branding identity",
         "id": "project-2",
         "title":"Project 2",
         "subtitle":"lorem ipsum sit",
