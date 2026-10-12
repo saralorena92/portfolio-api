@@ -259,5 +259,93 @@
             }
         ]
     }
+  ],
+  "services":[
+    {
+        "epi": "services",
+        "title":"What do you want to do today?",
+        "subtitle": "Creative solutions tailored to each type of project",
+        "list":[
+            {
+                "title":"Analysis web",
+                "text": "Evaluating and understanding a website's performance, and improve accessibility, usability, and overall user experience.",
+                "cta":"More about anlasysis",
+                "slug":"#analysis-web",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1"
+            },
+             {
+                "title":"UX/UI design",
+                "text": "Creating user-friendly and visually appealing interfaces for digital products, focusing on enhancing the overall user experience.",
+                "cta":"More about ux/ui",
+                "slug":"#uxui-design",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1"
+            },
+            {
+                "title":"Development web",
+                "text": "Building and maintaining websites and web applications, ensuring they are functional, user-friendly, and performant.",
+                "cta":"More about development",
+                "slug":"#development-web",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1"
+                
+            },
+            {
+                "title":"Branding identity",
+                "text": "Developing a unique and cohesive visual identity for a brand, including logo design, color schemes, typography, and brand guidelines.",
+                "cta":"More about branding",
+                "slug":"#branding-identity",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1"
+                
+            },
+            {
+                "title":"Arts & crafts",
+                "text": "You can visit my Instagram account and see some of my artworks, illustrations, and crafts.",
+                "cta":"Visit instagram",
+                "slug":"https://www.instagram.com/saralarts/",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1",
+                "isExternal":true
+            },
+            {
+                "title":"Blog & articles",
+                "text": "I have a blog and I write articles about design, development, and other topics related to my work.",
+                "cta":"Visit blog",
+                "slug":"https://saralarts.blogspot.com/",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1",
+                "isExternal":true
+            },
+            {
+                "title":"Custom music",
+                "text": "Do you want to relax? I create custom music too. Check it out.",
+                "cta":"Listen music",
+                "slug":"https://soundcloud.com/sara-l-483201009",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1",
+                "isExternal":true
+            },
+
+            {
+                "title":"A hug?",
+                "text": "It's a joke ;) but you can contact me and talk about projects or ideas.",
+                "cta":"Contact me",
+                "slug":"#contact",
+                "srcDesktop":"img1.jpg",
+                "srcMobile":"img1.jpg",
+                "alt":"alt img 1"
+            }
+        ]
+
+    }
   ]
 }
