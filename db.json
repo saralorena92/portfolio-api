@@ -1,343 +1,380 @@
 {
   "about": [
     {
-        "summary":[
-            {
-                "title": "City",
-                "text": "Reus, Catalunya"
-            },
-            {
-                "title": "Email",
-                "slug": "mailto:saralorena92@hotmail.com",
-                "text": "saralorena92@hotmail.com",
-                "isWide": true
-            },
-            
-            {
-                "title": "Instagram",
-                "slug": "/",
-                "text": "@saralarts",
-                "isExternal": true
-            },
-            {
-                "title": "Linkedin",
-                "slug": "/",
-                "text": "linkedin saralarts",
-                "isExternal": true
-            }
-        ],
-        "description":{
-            "title": "Description",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fermentum vestibulum elit sit amet aliquet. Nam vulputate efficitur tortor, vitae commodo odio porttitor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sed dui nec ultrices. Integer vitae massa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies iaculis. Nulla facilisi. Nullam eleifend est sapien, sed faucibus dui faucibus quis.",
-            "list":[
-                {
-                    "title": "title 1",
-                    "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies sed faucibus dui faucibus quis.",
-                    "icon": "BiBook"
-                },
-                {
-                    "title": "title 2",
-                   "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libered faucibus dui faucibus quis.",
-                    "icon": "BsEyeglasses"
-                }
-            ],
-            "skills":[
-                {
-                    "text":"PHP (2 years)",
-                    "value":20,
-                    "icon":"FaPhp"
-                },
-                {
-                    "text":"SCSS (7 years)",
-                    "value":70,
-                    "icon":"BsFiletypeScss"
-                },
-                {
-                    "text":"HTML 5 (7 years)",
-                    "value":50,
-                    "icon":"FaHtml5"
-                },
-                {
-                    "text":"React (5 years)",
-                    "value":50,
-                    "icon":"FaReact"
-                },
-                {
-                    "text":"Javascript (4 years)",
-                    "value":40,
-                    "icon":"BsJavascript"
-                },
-                {
-                    "text":"Figma (4 years)",
-                    "value":40,
-                    "icon":"FaFigma"
-                }
-            ]
+      "summary": [
+        {
+          "title": "City",
+          "text": "Reus, Catalunya"
         },
-        "experiencie":[
-            {
-                "year": "2014",
-                "title": "Studiogenesis",
-                "subtitle": "Design & Markup",
-                "text": "lorem amet"
-            },
-            {
-                "year": "2017",
-                "title": "Ediversa",
-                "subtitle": "Design & Markup",
-                "text": "lorem amet"
-            },
-            {
-                "year": "2024",
-                "title": "Ediversa",
-                "subtitle": "FrontEnd Developer",
-                "text": "lorem amet"
-            }
+        {
+          "title": "Email",
+          "slug": "mailto:saralorena92@hotmail.com",
+          "text": "saralorena92@hotmail.com",
+          "isWide": true
+        },
+        {
+          "title": "Instagram",
+          "slug": "/",
+          "text": "@saralarts",
+          "isExternal": true
+        },
+        {
+          "title": "Linkedin",
+          "slug": "/",
+          "text": "linkedin saralarts",
+          "isExternal": true
+        }
+      ],
+      "description": {
+        "title": "Description",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fermentum vestibulum elit sit amet aliquet. Nam vulputate efficitur tortor, vitae commodo odio porttitor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sed dui nec ultrices. Integer vitae massa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies iaculis. Nulla facilisi. Nullam eleifend est sapien, sed faucibus dui faucibus quis.",
+        "list": [
+          {
+            "title": "title 1",
+            "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libero. Donec eget urna non purus ultricies sed faucibus dui faucibus quis.",
+            "icon": "BiBook"
+          },
+          {
+            "title": "title 2",
+            "text": "Lorem ipsumestibulum elit sit amet aliquet. Nam vulputate efficitur totor non. Etiam velit dolor, pharetra non augue eget, fermentum vulputate augue. Quisque mollis sedsa augue. Aenean id sagittis libered faucibus dui faucibus quis.",
+            "icon": "BsEyeglasses"
+          }
         ],
-        "studies":[
-            {
-                "year": "2006",
-                "title": "ESO",
-                "subtitle": "INS Berenguer d'Entença, l'Hospitalet de l'Infant",
-                "text": "lorem amet"
-            },
-            {
-                "year": "2010",
-                "title": "Bachiller artes",
-                "subtitle": "INS Martí i Franqués, Tarragona",
-                "text": "lorem amet"
-            },
-            {
-                "year": "2012",
-                "title": "CFGS Diseño gráfico",
-                "subtitle": "EADT, Tarragona",
-                "text": "lorem amet"
-            },
-            {
-                "year": "2014",
-                "title": "CFGS Diseño interactivo",
-                "subtitle": "EADT, Tarragona",
-                "text": "lorem amet"
-            }
+        "skills": [
+          {
+            "text": "PHP (2 years)",
+            "value": 20,
+            "icon": "FaPhp"
+          },
+          {
+            "text": "SCSS (7 years)",
+            "value": 70,
+            "icon": "BsFiletypeScss"
+          },
+          {
+            "text": "HTML 5 (7 years)",
+            "value": 50,
+            "icon": "FaHtml5"
+          },
+          {
+            "text": "React (5 years)",
+            "value": 50,
+            "icon": "FaReact"
+          },
+          {
+            "text": "Javascript (4 years)",
+            "value": 40,
+            "icon": "BsJavascript"
+          },
+          {
+            "text": "Figma (4 years)",
+            "value": 40,
+            "icon": "FaFigma"
+          }
         ]
+      },
+      "experiencie": [
+        {
+          "year": "2014",
+          "title": "Studiogenesis",
+          "subtitle": "Design & Markup",
+          "text": "lorem amet"
+        },
+        {
+          "year": "2017",
+          "title": "Ediversa",
+          "subtitle": "Design & Markup",
+          "text": "lorem amet"
+        },
+        {
+          "year": "2024",
+          "title": "Ediversa",
+          "subtitle": "FrontEnd Developer",
+          "text": "lorem amet"
+        }
+      ],
+      "studies": [
+        {
+          "year": "2006",
+          "title": "ESO",
+          "subtitle": "INS Berenguer d'Entença, l'Hospitalet de l'Infant",
+          "text": "lorem amet"
+        },
+        {
+          "year": "2010",
+          "title": "Bachiller artes",
+          "subtitle": "INS Martí i Franqués, Tarragona",
+          "text": "lorem amet"
+        },
+        {
+          "year": "2012",
+          "title": "CFGS Diseño gráfico",
+          "subtitle": "EADT, Tarragona",
+          "text": "lorem amet"
+        },
+        {
+          "year": "2014",
+          "title": "CFGS Diseño interactivo",
+          "subtitle": "EADT, Tarragona",
+          "text": "lorem amet"
+        }
+      ]
     }
   ],
-  "projects":[
+  "projects": [
     {
-        "category": "UX / UI",
-        "id": "project-1",
-        "title":"Project 1",
-        "subtitle":"lorem ipsum sit",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
-        "tags":["Development", "UX/UI", "Analysis"],
-        "img":[
-            {
-                "srcDesktop":"img1.jpg",
-                "srcMobile":"img1.jpg",
-                "alt":"alt img 1"
-            },
-            {
-                "srcDesktop":"img2.jpg",
-                "srcMobile":"img2.jpg",
-                "alt":"alt img 2"
-            }
-        ],
-        "facts":[
-            {
-                "title":"detail title 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
-            },
-            {
-                "title":"detail title 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
-            }
-        ],
-        "details":[
-            {
-                "id":"detail-project-1",
-                "title":"detail title 1",
-                "subtitle":"subtitle 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img1.jpg",
-                "srcMobile":"img1.jpg",
-                "alt":"alt img 1"
-            },
-            {
-                "id":"detail-project-2",
-                "title":"detail title 2",
-                "subtitle":"subtitle 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":null,
-                "srcMobile":null,
-                "alt":null
-            }
-        ],
-        "related":[
-            {
-                "title":"related 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img1.jpg",
-                "cta": "see related 1",
-                "slug": "/project-2",
-                "alt":"alt img 1"
-            },
-            {
-                "title":"related 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img2.jpg",
-                "cta": "see related 2",
-                "slug": "/project-2",
-                "alt":"alt img 2"
-            }
-        ]
+      "category": "UX / UI",
+      "id": "project-1",
+      "title": "Project 1",
+      "subtitle": "lorem ipsum sit",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
+      "tags": [
+        "Development",
+        "UX/UI",
+        "Analysis"
+      ],
+      "img": [
+        {
+          "srcDesktop": "img1.jpg",
+          "srcMobile": "img1.jpg",
+          "alt": "alt img 1"
+        },
+        {
+          "srcDesktop": "img2.jpg",
+          "srcMobile": "img2.jpg",
+          "alt": "alt img 2"
+        }
+      ],
+      "facts": [
+        {
+          "title": "detail title 1",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+        },
+        {
+          "title": "detail title 2",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+        }
+      ],
+      "details": [
+        {
+          "id": "detail-project-1",
+          "title": "detail title 1",
+          "subtitle": "subtitle 1",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+          "srcDesktop": "img1.jpg",
+          "srcMobile": "img1.jpg",
+          "alt": "alt img 1"
+        },
+        {
+          "id": "detail-project-2",
+          "title": "detail title 2",
+          "subtitle": "subtitle 2",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+          "srcDesktop": null,
+          "srcMobile": null,
+          "alt": null
+        }
+      ],
+      "related": [
+        {
+          "title": "related 1",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+          "src": "img1.jpg",
+          "cta": "see related 1",
+          "slug": "/project-2",
+          "alt": "alt img 1"
+        },
+        {
+          "title": "related 2",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+          "src": "img2.jpg",
+          "cta": "see related 2",
+          "slug": "/project-2",
+          "alt": "alt img 2"
+        }
+      ]
     },
-     {
-        "category": "Branding identity",
-        "id": "project-2",
-        "title":"Project 2",
-        "subtitle":"lorem ipsum sit",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
-        "tags":["Development", "Analysis"],
-        "img":[
-            {
-                "srcDesktop":"img3.jpg",
-                "srcMobile":"img3.jpg",
-                "alt":"alt img 3"
-            },
-            {
-                "srcDesktop":"img4.jpg",
-                "srcMobile":"img4.jpg",
-                "alt":"alt img 4"
-            }
-        ],
-        "facts":[
-            {
-                "title":"detail title 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
-            },
-            {
-                "title":"detail title 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
-            }
-        ],
-        "details":[
-            {
-                "id":"detail-project-3",
-                "title":"detail title 3",
-                "subtitle":"subtitle 3",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                "srcDesktop":"img3.jpg",
-                "srcMobile":"img3.jpg",
-                "alt":"alt img 3"
-            },
-            {
-                "id":"detail-project-4",
-                "title":"detail title 4",
-                "subtitle":"subtitle 4",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
-                 "srcDesktop":null,
-                "srcMobile":null,
-                "alt":null
-            }
-        ],
-        "related":[
-            {
-                "title":"related 1",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img3.jpg",
-                "cta": "see related 3",
-                "slug": "/project-1",
-                "alt":"alt img 3"
-            },
-            {
-                "title":"related 2",
-                "text":"Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
-                "src":"img4.jpg",
-                "cta": "see related 4",
-                "slug": "/project-1",
-                "alt":"alt img 4"
-            }
-        ]
+    {
+      "category": "Branding identity",
+      "id": "project-2",
+      "title": "Project 2",
+      "subtitle": "lorem ipsum sit",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
+      "tags": [
+        "Development",
+        "Analysis"
+      ],
+      "img": [
+        {
+          "srcDesktop": "img3.jpg",
+          "srcMobile": "img3.jpg",
+          "alt": "alt img 3"
+        },
+        {
+          "srcDesktop": "img4.jpg",
+          "srcMobile": "img4.jpg",
+          "alt": "alt img 4"
+        }
+      ],
+      "facts": [
+        {
+          "title": "detail title 1",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+        },
+        {
+          "title": "detail title 2",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?"
+        }
+      ],
+      "details": [
+        {
+          "id": "detail-project-3",
+          "title": "detail title 3",
+          "subtitle": "subtitle 3",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+          "srcDesktop": "img3.jpg",
+          "srcMobile": "img3.jpg",
+          "alt": "alt img 3"
+        },
+        {
+          "id": "detail-project-4",
+          "title": "detail title 4",
+          "subtitle": "subtitle 4",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo? Vero atque esse dolore unde enim molestias rem officiis molestiae excepturi ad? Velit, deleniti?",
+          "srcDesktop": null,
+          "srcMobile": null,
+          "alt": null
+        }
+      ],
+      "related": [
+        {
+          "title": "related 1",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+          "src": "img3.jpg",
+          "cta": "see related 3",
+          "slug": "/project-1",
+          "alt": "alt img 3"
+        },
+        {
+          "title": "related 2",
+          "text": "Lorem ipsum dolor, sit amet consectett doloribus veritatis explicabo",
+          "src": "img4.jpg",
+          "cta": "see related 4",
+          "slug": "/project-1",
+          "alt": "alt img 4"
+        }
+      ]
     }
   ],
-  "services":[
+  "home": [
     {
-        "epi": "services",
-        "title":"What do you want to do today?",
-        "subtitle": "Creative solutions tailored to each type of project",
-        "list":[
+    "intro":[{
+        "title1":"Where",
+        "keywords":["creativity", "ideas", "solutions"],
+        "title2":"grow",
+        "subtitle":"When one door closes, a new path opens.",
+        "text":"Intuitive, curious, and creative. I'm always looking for new perspectives, meaningful challenges, and opportunities to create. I’d love to be part of your next project.",
+        "detail":"Sara L",
+        "cta":[
             {
-                "title":"Analysis web",
-                "text": "Evaluating and understanding a website's performance, and improve accessibility, usability, and overall user experience.",
-                "cta":"More about anlasysis",
+                "text":"Graphic solutions",
+                "slug":"#graphic-solutions",
+                "icon":"BiCodeAlt"
+            },
+            {
+                "text":"Creative ideas",
+                "slug":"#creative-ideas",
+                "icon":"LiaLightbulb"
+            },
+            {
+                "text":"Analysis",
                 "slug":"#analysis-web",
-                "src":"img1.jpg",
-                "alt":"alt img 1"
-            },
-             {
-                "title":"UX/UI design",
-                "text": "Creating user-friendly and visually appealing interfaces for digital products, focusing on enhancing the overall user experience.",
-                "cta":"More about ux/ui",
-                "slug":"#uxui-design",
-                "src":"img1.jpg",
-                "alt":"alt img 1"
-            },
-            {
-                "title":"Development web",
-                "text": "Building and maintaining websites and web applications, ensuring they are functional, user-friendly, and performant.",
-                "cta":"More about development",
-                "slug":"#development-web",
-                "src":"img1.jpg",
-                "alt":"alt img 1"
-                
-            },
-            {
-                "title":"Branding identity",
-                "text": "Developing a unique and cohesive visual identity for a brand, including logo design, color schemes, typography, and brand guidelines.",
-                "cta":"More about branding",
-                "slug":"#branding-identity",
-                "src":"img1.jpg",
-                "alt":"alt img 1"
-                
-            },
-            {
-                "title":"Arts & crafts",
-                "text": "You can visit my Instagram account and see some of my artworks, illustrations, and crafts.",
-                "cta":"Visit instagram",
-                "slug":"https://www.instagram.com/saralarts/",
-                "src":"img1.jpg",
-                "alt":"alt img 1",
-                "isExternal":true
-            },
-            {
-                "title":"Blog & articles",
-                "text": "I have a blog and I write articles about design, development, and other topics related to my work.",
-                "cta":"Visit blog",
-                "slug":"https://saralarts.blogspot.com/",
-                "src":"img1.jpg",
-                "alt":"alt img 1",
-                "isExternal":true
-            },
-            {
-                "title":"Custom music",
-                "text": "Do you want to relax? I create custom music too. Check it out.",
-                "cta":"Listen music",
-                "slug":"https://soundcloud.com/sara-l-483201009",
-                "src":"img1.jpg",
-                "alt":"alt img 1",
-                "isExternal":true
-            },
-
-            {
-                "title":"A hug?",
-                "text": "It's a joke ;) but you can contact me and talk about projects or ideas.",
-                "cta":"Contact me",
-                "slug":"#contact",
-                "src":"img1.jpg",
-                "alt":"alt img 1"
+                "icon":"BiSearchAlt"
             }
         ]
-
+    }],
+      "services": [
+        {
+          "epi": "services",
+          "title": "What do you want to do today?",
+          "subtitle": "Creative solutions tailored to each type of project",
+          "list": [
+            {
+              "title": "Analysis web",
+              "text": "Evaluating and understanding a website's performance, and improve accessibility, usability, and overall user experience.",
+              "cta": "More about anlasysis",
+              "slug": "#analysis-web",
+              "src": "img1.jpg",
+              "alt": "alt img 1"
+            },
+            {
+              "title": "UX/UI design",
+              "text": "Creating user-friendly and visually appealing interfaces for digital products, focusing on enhancing the overall user experience.",
+              "cta": "More about ux/ui",
+              "slug": "#uxui-design",
+              "src": "img1.jpg",
+              "alt": "alt img 1"
+            },
+            {
+              "title": "Development web",
+              "text": "Building and maintaining websites and web applications, ensuring they are functional, user-friendly, and performant.",
+              "cta": "More about development",
+              "slug": "#development-web",
+              "src": "img1.jpg",
+              "alt": "alt img 1"
+            },
+            {
+              "title": "Branding identity",
+              "text": "Developing a unique and cohesive visual identity for a brand, including logo design, color schemes, typography, and brand guidelines.",
+              "cta": "More about branding",
+              "slug": "#branding-identity",
+              "src": "img1.jpg",
+              "alt": "alt img 1"
+            },
+            {
+              "title": "Arts & crafts",
+              "text": "You can visit my Instagram account and see some of my artworks, illustrations, and crafts.",
+              "cta": "Visit instagram",
+              "slug": "https://www.instagram.com/saralarts/",
+              "src": "img1.jpg",
+              "alt": "alt img 1",
+              "isExternal": true
+            },
+            {
+              "title": "Blog & articles",
+              "text": "I have a blog and I write articles about design, development, and other topics related to my work.",
+              "cta": "Visit blog",
+              "slug": "https://saralarts.blogspot.com/",
+              "src": "img1.jpg",
+              "alt": "alt img 1",
+              "isExternal": true
+            },
+            {
+              "title": "Custom music",
+              "text": "Do you want to relax? I create custom music too. Check it out.",
+              "cta": "Listen music",
+              "slug": "https://soundcloud.com/sara-l-483201009",
+              "src": "img1.jpg",
+              "alt": "alt img 1",
+              "isExternal": true
+            },
+            {
+              "title": "A hug?",
+              "text": "It's a joke ;) but you can contact me and talk about projects or ideas.",
+              "cta": "Contact me",
+              "slug": "#contact",
+              "src": "img1.jpg",
+              "alt": "alt img 1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globals":[
+    {
+        "header":[{}],
+        "footer":[{}]
     }
   ]
 }
