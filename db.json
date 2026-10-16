@@ -14,13 +14,13 @@
         },
         {
           "title": "Instagram",
-          "slug": "/",
+          "slug": "https://www.instagram.com/saralarts/",
           "text": "@saralarts",
           "isExternal": true
         },
         {
           "title": "Linkedin",
-          "slug": "/",
+          "slug": "https://es.linkedin.com/in/sara-lorena-rodr%C3%ADguez-sabat%C3%A9-082195a3",
           "text": "linkedin saralarts",
           "isExternal": true
         }
@@ -295,7 +295,7 @@
     }],
       "services": [
         {
-          "epi": "services",
+          "epi": "Services",
           "title": "What do you want to do today?",
           "subtitle": "Creative solutions tailored to each type of project",
           "list": [
@@ -368,13 +368,39 @@
             }
           ]
         }
+      ],
+      "about":[
+        {
+            "epi":"About me",
+            "title":"Want to know my darkest secrets?",
+            "text":"See my habilities, studies, experience...and more.",
+            "cta":"See more about me",
+            "slug":"/about-me"
+        }
       ]
     }
   ],
   "globals":[
     {
         "header":[{}],
-        "footer":[{}]
+        "footer":[{}],
+        "media":[
+            {
+                "text":"instagram",
+                "icon":"RxInstagramLogo",
+                "slug":"https://www.instagram.com/saralarts/"
+            },
+            {
+                "text":"Linkedin",
+                "icon":"RiLinkedinFill",
+                "slug":"https://es.linkedin.com/in/sara-lorena-rodr%C3%ADguez-sabat%C3%A9-082195a3"
+            },
+            {
+                "text":"Email",
+                "icon":"PiMailboxLight",
+                "slug":"mailto:saralorena92@hotmail.com"
+            }
+        ]
     }
   ]
 }
