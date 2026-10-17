@@ -380,7 +380,7 @@
       ]
     }
   ],
-  "globals":[
+  "global":[
     {
         "header":[{}],
         "footer":[{}],
