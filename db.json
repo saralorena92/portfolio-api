@@ -383,6 +383,26 @@
             "title":"Contact!",
             "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis."
         }
+      ],
+      "solutions":[
+        {
+            "title":"Graphic solutions",
+            "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
+            "alt":"lorem ipsum",
+            "src":"img3.jpg"
+        },
+         {
+            "title":"Creative ideas",
+            "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
+            "alt":"lorem ipsum",
+            "src":"img3.jpg"
+        },
+         {
+            "title":"Analysis web",
+            "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
+            "alt":"lorem ipsum",
+            "src":"img3.jpg"
+        }
       ]
     }
   ],
