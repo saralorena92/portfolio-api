@@ -389,19 +389,22 @@
             "title":"Graphic solutions",
             "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
             "alt":"lorem ipsum",
-            "src":"img3.jpg"
+            "src":"img3.jpg",
+            "id": "graphic-solutions"
         },
          {
             "title":"Creative ideas",
             "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
             "alt":"lorem ipsum",
-            "src":"img3.jpg"
+            "src":"img3.jpg",
+            "id": "creative-ideas"
         },
          {
             "title":"Analysis web",
             "text":"Lorem ipris ferme,icitur tortor, vitae commodo od quis, Lorem ipris ferme,icitur tortor, vitae commodo od quis.",
             "alt":"lorem ipsum",
-            "src":"img3.jpg"
+            "src":"img3.jpg",
+            "id": "analysis-web"
         }
       ]
     }
