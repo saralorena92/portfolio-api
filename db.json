@@ -127,6 +127,7 @@
       "id": "project-1",
       "title": "Project 1",
       "subtitle": "lorem ipsum sit",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
       "tags": [
         "Development",
@@ -199,6 +200,7 @@
       "id": "project-2",
       "title": "Project 2",
       "subtitle": "lorem ipsum sit",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos 2",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, doloribus veniam et facere aut voluptatibus! Provident recusandae quam magnam corporis, fugit necessitatibus hic a inventore voluptatem nulla dolorum sunt maxime!",
       "tags": [
         "Development",
