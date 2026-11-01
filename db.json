@@ -124,6 +124,7 @@
   "projects": [
     {
       "category": "UX / UI",
+      "categorySlug": "ux-ui",
       "id": "project-1",
       "title": "Project 1",
       "subtitle": "lorem ipsum sit",
@@ -196,6 +197,7 @@
     },
     {
       "category": "Branding identity",
+      "categorySlug": "branding-identity",
       "id": "project-2",
       "title": "Project 2",
       "subtitle": "lorem ipsum sit",
